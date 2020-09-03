@@ -119,7 +119,7 @@
 , Pip =
     ./schemas/modules/pip.dhall sha256:51b3cc676edd303581ff5fdc876839c26454b9dbc16c1083af3e419cab4ea960
 , Play =
-    ./schemas/play.dhall sha256:2f6d9f1eae3b9cd456ed6de48854857cfcade266ad5ae7e46691ed7fe41d7505
+    ./schemas/play.dhall sha256:b66764aff39cef65c8211b6c8e46c886fcecf3f547b0309762d63fa671809ed5
 , Reboot =
     ./schemas/modules/reboot.dhall sha256:8954cc5addc72366a4642f241711e68c4d5d73f82b53cc65420e89fb93d0aa28
 , RpmKey =

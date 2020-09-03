@@ -20,4 +20,5 @@
 , become_method : Optional Text
 , become_user : Optional Text
 , become_flags : Optional Text
+, remote_user : Optional Text
 }

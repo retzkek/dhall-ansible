@@ -12,6 +12,7 @@
 , order = None Text
 , post_tasks = None (List ../types/task.dhall)
 , pre_tasks = None (List ../types/task.dhall)
+, remote_user = None Text
 , roles = None (List Text)
 , serial = None (List Text)
 , strategy = None Text
